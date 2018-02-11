@@ -1,6 +1,6 @@
-#MSI Movie Station HD1000
+# MSI Movie Station HD1000
 
-##Hardware
+## Hardware
 |                |Type             |Description    |
 |----------------|-----------------|---------------|
 |**CPU**         |MPIS 24K V7.8    |               |
@@ -10,12 +10,12 @@
 
 
 
-![teardown][images/5.jpg]
+![teardown][https://github.com/chris0550/msi_hd1000/raw/master/images/5.jpg]
 
 
-##Software
+## Software
 
-###Open ports
+### Open ports
 |PORT      |STATE |SERVICE|VERSION|
 |:---------|:-----|:----------------|:-----------------------------------------|
 | 23/tcp   | open | telnet          | BusyBox telnetd                          |
@@ -31,7 +31,7 @@ Accessible via telnet
 Username: `root`  
 Password: `<not necessary>`  
 
-![Login via telnet][images/telnet.png]
+![Login via telnet][https://github.com/chris0550/msi_hd1000/raw/master/images/telnet.png]
 
 ```
 # uname -a
