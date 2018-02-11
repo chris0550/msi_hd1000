@@ -10,7 +10,7 @@
 
 
 
-![teardown][https://github.com/chris0550/msi_hd1000/raw/master/images/5.jpg]
+![teardown](https://github.com/chris0550/msi_hd1000/raw/master/images/5.jpg)
 
 
 ## Software
@@ -31,7 +31,7 @@ Accessible via telnet
 Username: `root`  
 Password: `<not necessary>`  
 
-![Login via telnet][https://github.com/chris0550/msi_hd1000/raw/master/images/telnet.png]
+![Login via telnet](https://github.com/chris0550/msi_hd1000/raw/master/images/telnet.png)
 
 ```
 # uname -a
