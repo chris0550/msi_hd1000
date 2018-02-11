@@ -26,7 +26,7 @@
 | 1024/udp | open |                 |                                          |  
   
 
-###Access
+### Access
 Accessible via telnet  
 Username: `root`  
 Password: `<not necessary>`  
@@ -40,7 +40,6 @@ Linux Venus 2.6.12.6-VENUS #6 Mon Sep 27 11:33:46 CST 2010 mips unknown
 
 
 ```
-# uname -a
 # cat /proc/cpuinfo 
 system type             : Realtek Venus
 processor               : 0
